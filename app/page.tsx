@@ -21,7 +21,7 @@ export default function Home() {
         <div className="hero-copy">
           <a className="announcement" href="#">
             <span>New</span>
-            Nexa AI is here
+            Nexa AI is here Bro!
             <b><Arrow /></b>
           </a>
 
